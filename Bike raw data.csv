@@ -1,0 +1,17 @@
+,Bike model,year,price,color,mileage,Engine_capacity,Fuel_type
+0,Hero,2005.0,500.0,red,15000.0,125,Petrol
+1,Yamaha,2006.0,,blue,25000.0,150,Petrol
+2,,2007.0,100000.0,green,35000.0,180,Diesel
+3,Honda,2008.0,2000.0,,45000.0,200,Petrol
+4,Suzuki,2009.0,3000.0,black,55000.0,250,Petrol
+5,Hero,2005.0,500.0,red,15000.0,125,Petrol
+6,Hero,2005.0,500.0,red,15000.0,125,Petrol
+7,,,4000.0,blue,25000.0,150,Diesel
+8,Yamaha,2007.0,100000.0,green,35000.0,180,Petrol
+9,Honda,2008.0,2000.0,yellow,45000.0,200,Petrol
+10,Suzuki,2009.0,3000.0,black,55000.0,250,Petrol
+11,Hero,,100000.0,red,15000.0,125,Petrol
+12,Yamaha,2006.0,4000.0,blue,25000.0,150,Petrol
+13,Honda,2007.0,2000.0,green,,180,Diesel
+14,Suzuki,2008.0,3000.0,yellow,,200,Petrol
+15,,2008.0,5000.0,,,250,Petrol
